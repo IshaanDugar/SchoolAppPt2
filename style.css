@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+
+h1{
+    color: yellow;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    background-color:orange ;
+    color: green;
+}
+
+.pic{
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.Head{
+    background-color: aquamarine;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    justify-content: flex-end;
+}
